@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bas\h
 
 echo "what is your favorite Linux distribution?"
 
